@@ -1,6 +1,7 @@
 # Engr212-Fall2020
 
 Name List
+
 1. Aaron Schlichting
 2. Brandon Wong-Delizo
 3. Phyoe Thu
@@ -20,5 +21,11 @@ Name List
 17. Jina Shin
 18. Hinal Halani
 19. Douglas Yang
-20. Eric He
+20. Rishabh Kalyanakumar
+21. Earvin Agagas
+22. David Neri
+23. Lawrence Chau
+24. Tyrone Murray
+25. Utkarsh Nath
+26. Eric He
 
