@@ -22,8 +22,10 @@ Name List
 18. Hinal Halani
 19. Douglas Yang
 20. Rishabh Kalyanakumar
-20. Earvin Agagas
+21. Earvin Agagas
 22. David Neri
-30. Lawrence Chau
-19. Tyrone Murray
-19. Utkarsh Nath
+23. Lawrence Chau
+24. Tyrone Murray
+25. Utkarsh Nath
+26. Eric He
+
