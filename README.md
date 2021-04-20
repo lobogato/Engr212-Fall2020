@@ -2,5 +2,6 @@
 
 Name List
 
-1. Aaron Schlichting
+1. Eddie Lopez
+
 
