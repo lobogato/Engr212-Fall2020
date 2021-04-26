@@ -3,7 +3,4 @@
 Name List
 
 1. Aaron Schlichting
-2. Viliami Tufui-Niu
-
-2. Shanil Prasad
-4. Henzon Zambrano
+2. Henzon Zambrano
