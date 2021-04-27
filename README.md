@@ -4,5 +4,4 @@ Name List
 
 1. Aaron Schlichting
 2. Viliami Tufui-Niu
-
-2. Shanil Prasad
+3. Paul Gabriel Ongtenco
