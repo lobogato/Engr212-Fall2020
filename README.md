@@ -5,4 +5,5 @@
 3. Shanil Prasad
 4. Byron Chand
 5. Henzon Zambrano
+6. Edmund-Russell Manzano
 
