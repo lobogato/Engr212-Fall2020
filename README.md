@@ -1,6 +1,8 @@
 # Engr212-Spring2021
 
-Name List
-
 1. Aaron Schlichting
-2. Henzon Zambrano
+2. Viliami Tufui-Niu
+3. Shanil Prasad
+4. Byron Chand
+5. Henzon Zambrano
+
