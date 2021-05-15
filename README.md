@@ -12,4 +12,6 @@
 10. Ashish Khari
 11. Stiofan Condon
 12. Josh Li
-13. Feras Alayoub
+13. Eddie Lopez
+14. Feras Alayoub
+
