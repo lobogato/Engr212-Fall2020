@@ -1,7 +1,5 @@
 # Engr212-Spring2021
 
-Name List
-
 1. Aaron Schlichting
 2. Viliami Tufui-Niu
 3. Shanil Prasad
@@ -15,3 +13,4 @@ Name List
 11. Stiofan Condon
 12. Josh Li
 13. Eddie Lopez
+
