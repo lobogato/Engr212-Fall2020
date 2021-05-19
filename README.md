@@ -17,5 +17,6 @@
 15. Feras Alayoub
 16. Brenton Yee
 17. Kenneth Vang
-18. Keerthi Manogna Buska 
+18. Keerthi Manogna Buska
+19. Diana Lazarte 
 
